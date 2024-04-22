@@ -1,4 +1,8 @@
+
+
 # Dolment
+
+![Dolment Logo](img/Dolment.png)
 
 🚀 Sistema de gestión gratuito para todo el mundo 🌍
 
