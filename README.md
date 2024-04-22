@@ -2,6 +2,13 @@
 
 🚀 Sistema de gestión gratuito para todo el mundo 🌍
 
+## Tecnologías principales
+
+- Electron
+- React
+- Tailwind CSS
+- MySQL
+
 ## Instalación
 
 1. **Descargar Laragon**: Descarga e instala [Laragon](https://laragon.org/download/) en tu sistema.
@@ -11,7 +18,7 @@
    - Importa el archivo `Creacion de tablas BD.sql` en tu gestor de base de datos para crear las tablas necesarias.
 
 3. **Descargar Dolment**:
-   - Descarga el programa Dolment desde [este enlace](linkejemplo).
+   - Descarga el programa Dolment desde [este enlace](https://drive.google.com/drive/folders/1CLC2lVUn2hv8CxFIt0IFGPFkWnQ6Oolo?usp=sharing).
    - Extrae el archivo descargado en la ubicación deseada en tu sistema.
 
 4. **Iniciar Dolment**:
