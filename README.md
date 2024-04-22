@@ -2,7 +2,7 @@
 
 # Dolment
 
-![Dolment Logo](img/DolmentBlankFino.png)
+![Dolment Logo](img/DolmentBlankFino.jpg)
 
 🚀 Sistema de gestión gratuito para todo el mundo 🌍
 
