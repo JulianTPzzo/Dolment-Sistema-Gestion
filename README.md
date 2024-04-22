@@ -13,6 +13,11 @@
 - Tailwind CSS
 - MySQL
 
+## Algunas imagenes
+
+![Imagen Ventas](img/image1.png)
+![Imagen movimientos](img/image.png)
+
 ## Instalación
 
 1. **Descargar Laragon**: Descarga e instala [Laragon](https://laragon.org/download/) en tu sistema.
