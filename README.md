@@ -13,7 +13,7 @@
 - Tailwind CSS
 - MySQL
 
-## Algunas imagenes
+## Algunas imágenes
 
 ![Imagen Ventas](img/image1.png)
 ![Imagen movimientos](img/image.png)
