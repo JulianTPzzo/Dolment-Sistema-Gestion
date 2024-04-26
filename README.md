@@ -1,6 +1,6 @@
 
 
-# Dolment
+# Dolment (En construcción)
 
 ![Dolment Logo](img/DolmentBlankFino.jpg)
 
